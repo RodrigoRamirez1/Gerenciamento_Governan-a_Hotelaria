@@ -1,0 +1,1 @@
+ALTER TABLE uh DROP COLUMN situacao;
