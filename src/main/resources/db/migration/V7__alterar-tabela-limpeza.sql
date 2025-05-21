@@ -1,0 +1,2 @@
+ALTER TABLE limpeza ADD situacao VARCHAR(20);
+ALTER TABLE limpeza ADD tipo VARCHAR(20) NOT NULL;
